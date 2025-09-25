@@ -1,6 +1,6 @@
 
 
-Hi there, I'm @prashantflutter 👋
+Hi there, I'm Prashant 👋
 Welcome to my GitHub profile! I'm a passionate Flutter developer with a keen interest in creating elegant and responsive applications. 🚀
 
 About Me
